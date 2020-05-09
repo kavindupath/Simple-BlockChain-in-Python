@@ -1,4 +1,4 @@
-Hi! Would you like to build a small blockchain on your own? Here is a basic guide through which follows on developing a simple blockchain using python and its libraries. 
+Hi!!!! Would you like to build a small blockchain on your own? Here is a basic guide through which follows on developing a simple blockchain using python and its libraries. 
 Lets first understand the term “BlockChain”. 
 
 A Blockchain is simply a ledger that keeps a permanent record of all the transactions that take place sequentially in a secure, and unchangeable manner. It is a chain of ‘Blocks’ which consists of information and each and every block records all the recent transactions. Once a block is completed it will be added to the blockchain and so on. 
